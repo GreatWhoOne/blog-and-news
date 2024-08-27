@@ -1,3 +1,3 @@
-<!-- <h4 align="center">
+<h4 align="center">
   <p>🚧  Projeto Blog and News em construção...  🚧</p>
-</h4> -->
+</h4>
